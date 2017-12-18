@@ -5,7 +5,7 @@ package slf_test
 
 import (
 	"encoding/json"
-	"github.com/ventu-io/slf"
+	"github.com/KristinaEtc/slf"
 	"testing"
 )
 

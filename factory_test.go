@@ -4,7 +4,7 @@
 package slf_test
 
 import (
-	"github.com/ventu-io/slf"
+	"github.com/KristinaEtc/slf"
 	"testing"
 )
 
