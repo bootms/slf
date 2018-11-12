@@ -5,7 +5,7 @@ package slf_test
 
 import (
 	"encoding/json"
-	"github.com/KristinaEtc/slf"
+	"github.com/bootms/slf"
 	"testing"
 )
 

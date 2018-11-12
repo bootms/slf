@@ -4,7 +4,7 @@
 package slf_test
 
 import (
-	"github.com/KristinaEtc/slf"
+	"github.com/bootms/slf"
 	"testing"
 )
 
